@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-profile-trophy.vercel.app/?username=Leeloo3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/Leeloo3?country.x=US&locale.x=en_US) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Leeloo3?country.x=US&locale.x=en_US) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
