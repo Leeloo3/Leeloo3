@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @Leeloo3
-- 👀 I’m interested in Cars, Art, Real Estate, Computer Science, Cyber Security, and constantly expanding my knowledge.
+<h1 align="center">Hey 👋, my name is Jaden</h1>
+<h3 align="center">I am a passionate Cybersecurity student and Full-stack web Developer in university!</h3>
+
+- 🔭 I’m currently developing a project for the ["World's Largest Hackathon"](https://worldslargesthackathon.devpost.com/?ref_feature=challenge&ref_medium=homepage-recommended-hackathons&_gl=1*gj83hw*_gcl_au*MTkzMTY2NDg5Ny4xNzQ5MTU3MjQx*_ga*NDk3NjU0NDc0LjE3NDkxNTcyNDE.*_ga_0YHJK3Y10M*czE3NDkyNjk3MjckbzIkZzAkdDE3NDkyNjk3MjckajYwJGwwJGgw)
+
+- 🌱 I’m currently learning **Flask, SQL, JavaScript, Ai implementation, etc.**
+
+- 📝 I 'm planning to write articles on cybersecurity and software developement at [https://medium.com/@Leeloo3](https://medium.com/@Leeloo3)
+
+- 📫 How to reach me **leeloo370z@gmail.com**
+
+- ⚡ Fun fact **I have a foreign car part import business**
+  
+<p align="left">
+<!---
+- 👋 Hey, my name is Jaden, and I am a fullstack developer studying cybersecurity in university!
+- 👀 I’m interested in Computer Science, Cyber Security, AI, Cars, Art, Real Estate, , and constantly expanding my knowledge in all of these fields.
 - 🌱 I’m currently learning Flask, SQL, Javascript, etc.
 - 💞️ I’m looking to collaborate on Software engineering projects to gain experience and bolster my resume.
 - 📫 How to reach me at leeloo370z@gmail.com
+---!>
 
 <!---
 Leeloo3/Leeloo3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
